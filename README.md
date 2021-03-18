@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **colie31/colie31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me
----
+### Hi there 👋 # So here is some stuff bout Me :simple_smile:
 
 As an individual who loves to problem solve, I find a career in Software Engineering quite satisfying and fulfilling. I enjoy being challenged outside of my knowledge and comfort set. I am always looking to apply my skills as well as expand on them. A problem/issue gives an opportunity to learn and grow.
 
 # Skills
----
 
 
  
