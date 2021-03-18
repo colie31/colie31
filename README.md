@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 
-# So here is some stuff about Me :simple_smile:
+# So here is some stuff about Me 😀
 
-:simple_smile:
 As an individual who loves to problem solve, I find a career in Software Engineering quite satisfying and fulfilling. I enjoy being challenged outside of my knowledge and comfort set. I am always looking to apply my skills as well as expand on them. A problem/issue gives an opportunity to learn and grow.
 
 # Skills
