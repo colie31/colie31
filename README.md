@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 As an individual who loves to problem solve, I find a career in Software Engineering quite satisfying and fulfilling. I enjoy being challenged outside of my knowledge and comfort set. I am always looking to apply my skills as well as expand on them. A problem/issue gives an opportunity to learn and grow.
 
-# Skills
+# Languages and Tools:
+
+![<img align="left" alt="HTML5" src="./node_modules/programming-languages-logos/src/html/html_64x64.png">](https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/august/html5-building-apps-with-html5-what-you-need-to-know)
 
 
  
